@@ -4,7 +4,7 @@ Tableau Citibike Project
 This GitHub project contains the Tableau workbook and Readme file for this homework assignment.
 
 The workbook has 9 worksheets (visualizations), 4 dashboard views that were used for the 4 page story.
-Data that was analyzed covered February 2020 through January 2021 (peak time period for the Covid-19 Pandemic). 
+Data that was analyzed covered February 2020 through January 2021 (peak time period for the Covid-19 Pandemic). Months were added to the files to supplement the information. 
 
 Key findings:
 - Ridership was high for male ridership compared to female ridership.   
